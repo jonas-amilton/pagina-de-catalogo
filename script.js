@@ -4,9 +4,9 @@ let filterarray =[];
 let galleryarray = [
     {
         id:1,
-        name : "xbox series x",
-        src: "./images/xbox_series_x.png",
-        desc : "R$ 3.849,99"
+        name : "processador intel core i5",
+        src: "./images/processador-intel-core-i5400.jpg",
+        desc : "R$ 859,99"
     },
     {
         id:2,
@@ -38,6 +38,24 @@ let galleryarray = [
         name : "iphone 13 pro",
         src: "./images/Apple-iPhone-13-Pro.png",
         desc : "R$ 8.628,28"
+    },
+    {
+        id:7,
+        name : "processador amd ryzen 7",
+        src: "./images/processador-amd-ryzen-7.jpg",
+        desc : "1.890,21"
+    },
+    {
+        id:8,
+        name : "placa de vídeo rtx 2060",
+        src: "./images/placa-de-video.png",
+        desc : "R$ 1.699,99"
+    },
+    {
+        id:9,
+        name : "cadeira gamer",
+        src: "./images/cadeira-gamer.png",
+        desc : "R$ 628,28"
     }
    ];
 
