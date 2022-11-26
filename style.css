@@ -4,6 +4,21 @@
   font-family: Roboto;
 }
 
+body {
+  margin: 0;
+}
+
+table {
+  width: 100%;
+  border: 1px solid;
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid;
+  padding: 20px;
+}
+
 .navbar-brand {
     color: blue;
 }
